@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -11,11 +12,21 @@
 }
 
 .container {
-    max-width: 1200px;
+
     margin: 0 auto;
 }
 
 .col50 {
     height: 50px;
     width: 50%;
+    border-color: 1px solid black;
+    border: 1px;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
 }
