@@ -14,11 +14,19 @@
 
 .container {
     margin: 0 auto;
+    max-width: 100%;
+}
+
+.col10 {
+    height: 50px;
+    width: 10%;
+    border-color: 1px solid black;
+    border: 1px;
 }
 
 .col50 {
     height: 50px;
-    width: 50%;
+    width: 45%;
     border-color: 1px solid black;
     border: 1px;
 }
@@ -32,15 +40,13 @@
 }
 
 .ul-logo {
+    padding: 5px;
     list-style: none;
-    position: relative;
-    left: 130px;
-    bottom: 38px;
+    display: inline-block;
 }
 
 .ul-accedi {
-    position: relative;
-    left: 350px;
+    margin-left: 240px;
     bottom: 0;
     list-style: none;
 }
@@ -49,6 +55,8 @@ li {
     display: inline-block;
     margin: 10px;
 }
+
+
 
 
 
