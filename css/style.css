@@ -61,9 +61,17 @@ li {
 }
 
 .arrow {
-    width: 100px;
-    height: auto;
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 90px;
 }
+
+.resize-first-image {
+    width: 630px;
+    height: auto;
+
+}
+
 
 .red {
     background-color: red;
