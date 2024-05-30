@@ -27,14 +27,22 @@
     width: 100px;
     height: auto;
     padding: 5px;
-    margin: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
 }
 
-ul {
+.ul-logo {
     list-style: none;
     position: relative;
-    left: 115px;
-    bottom: 47px;
+    left: 130px;
+    bottom: 38px;
+}
+
+.ul-accedi {
+    position: relative;
+    left: 350px;
+    bottom: 0;
+    list-style: none;
 }
 
 li {
@@ -54,7 +62,9 @@ li {
 }
 
 .blu {
-    background-color: blue;
+    background-color: rgba(7, 51, 246, 0.773);
+    padding: 7px;
+    color: white;
 }
 
 .orange {
