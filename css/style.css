@@ -261,33 +261,45 @@ li {
 }
 
 .img-partner {
-    margin-top: 150px;
+
     width: 450px;
     height: auto;
 }
 
 
-.alignleft {
-    float: left;
-
-
-}
 
 .testo-immagine {
     margin-top: 300px;
 
 }
 
-.col50 {
+.col-img-partners {
     height: 1200px;
-    width: 50%;
-    border-color: 1px solid black;
-    border: 1px;
-    padding-left: 50px;
+    width: 65%;
+
+
+
 }
+
+.col35 {
+    height: 1200px;
+    width: 35%;
+
+
+}
+
+
 
 .container-partners {
     margin-left: 298px;
     margin-right: 335px;
-    margin-top: 50px;
+    margin-top: 150px;
+    border-color: 1px solid black;
+
+}
+
+.tasto-bianco {
+    padding: 7px;
+    color: black;
+
 }
