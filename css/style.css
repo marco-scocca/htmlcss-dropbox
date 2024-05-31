@@ -150,14 +150,6 @@ li {
 
 }
 
-.content1 {
-    width: 100%;
-    height: 300px;
-    border-color: 1px solid black;
-    border: 1px;
-    margin-top: 50px;
-}
-
 
 
 .content-3colonne {
@@ -175,6 +167,7 @@ li {
     margin-left: 285px;
     margin-right: 300px;
     margin-top: 50px;
+
 
 }
 
@@ -234,4 +227,35 @@ li {
 .hr {
     margin-top: 35px;
     width: 60px;
+}
+
+.col-enterprise {
+    width: 100%;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 15px;
+    margin-right: 50px;
+    margin-top: 100px;
+    color: black;
+
+}
+
+.container-enterprise {
+    margin-left: 285px;
+    margin-right: 367px;
+    margin-top: 50px;
+}
+
+.icon-team {
+    margin-left: 350px;
+
+}
+
+.margin-left {
+    margin-left: 15px;
+}
+
+.margin-button {
+    margin-left: 500px;
+
 }
