@@ -24,7 +24,7 @@
     border: 1px;
 }
 
-.col50 {
+.col45 {
     height: 50px;
     width: 45%;
     border-color: 1px solid black;
@@ -242,7 +242,7 @@ li {
 
 .container-enterprise {
     margin-left: 285px;
-    margin-right: 367px;
+    margin-right: 350px;
     margin-top: 50px;
 }
 
@@ -276,4 +276,18 @@ li {
 .testo-immagine {
     margin-top: 300px;
 
+}
+
+.col50 {
+    height: 1200px;
+    width: 50%;
+    border-color: 1px solid black;
+    border: 1px;
+    padding-left: 50px;
+}
+
+.container-partners {
+    margin-left: 298px;
+    margin-right: 335px;
+    margin-top: 50px;
 }
