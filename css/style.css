@@ -333,9 +333,114 @@ li {
     width: 50%;
     height: 50%;
     float: left;
+
+
 }
 
 .col40 {
     width: 40%;
     height: 100%;
+}
+
+
+
+.svg {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(36deg) brightness(108%) contrast(101%);
+
+}
+
+.img-box-designit {
+    width: 125px;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 95px;
+
+
+}
+
+.img-box-asu {
+    margin-top: 75px;
+    margin-left: 58px;
+    width: 125px;
+    height: auto;
+}
+
+.img-box-usf {
+    margin-top: 115px;
+    margin-left: 58px;
+    width: 125px;
+    height: auto;
+
+}
+
+.img-box-topps {
+    margin-top: 90px;
+    margin-left: 58px;
+    width: 125px;
+    height: auto;
+}
+
+.img-box-designit2 {
+    width: 200px;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
+.hr-designit {
+    width: 100px;
+    color: gray;
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
+
+.p-designit {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+
+
+.img-hearts {
+    margin-top: 115px;
+    margin-left: 58px;
+    width: 125px;
+    height: auto;
+}
+
+
+.bg-green {
+    background-color: rgba(52, 208, 96, 0.552);
+    border: 10px solid rgb(193, 246, 220);
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-yellow {
+    background-color: rgba(243, 243, 41, 0.804);
+}
+
+.bg-brown {
+    background-color: rgba(190, 10, 10, 0.836);
+    margin-bottom: ;
+}
+
+.bg-heavenly {
+    background-color: cornflowerblue;
+}
+
+.bg-blu {
+    background-color: rgb(38, 38, 182);
+}
+
+.bg-skyblu {
+    background-color: lightskyblue;
+}
+
+.bg-light-grey {
+    background-color: rgba(220, 220, 220, 0.627);
 }
