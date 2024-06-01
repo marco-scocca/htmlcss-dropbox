@@ -426,7 +426,7 @@ li {
 
 .bg-brown {
     background-color: rgba(190, 10, 10, 0.836);
-    margin-bottom: ;
+
 }
 
 .bg-heavenly {
@@ -443,4 +443,21 @@ li {
 
 .bg-light-grey {
     background-color: rgba(220, 220, 220, 0.627);
+}
+
+.margin-button-prova {
+    float: right;
+    padding: 7px;
+    color: black;
+    background-color: white;
+    border: 0;
+    margin-right: 300px;
+    margin-top: 10px;
+}
+
+.arrow-down {
+    float: right;
+    font-size: 13px;
+    margin-right: 55px;
+    margin-top: 35px;
 }
