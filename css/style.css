@@ -134,6 +134,11 @@ li {
     padding-top: 50px;
 }
 
+.padding-l {
+    padding-left: 150px;
+}
+
+
 .col40 {
     padding-left: 200px;
     width: 40%;
