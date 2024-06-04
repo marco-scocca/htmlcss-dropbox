@@ -539,3 +539,11 @@ li {
     height: 40px;
     width: 100%;
 }
+
+.radius-inline {
+    flex-direction: row;
+}
+
+.float-left {
+    float: left;
+}
